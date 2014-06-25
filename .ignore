@@ -1,0 +1,20 @@
+#IGNORE TEMPALTE BY BACHDEV
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+#Netbean IDE files
+build/
+nbbuild/
+dist/
+#Eclipse IDE files
+.settings/
+.metadata
+bin/
+tmp/
+*.tmp
+#Maven files
+**/target/
+#Subversion files
+.svn/
+# Office Temp Files
+~$*
